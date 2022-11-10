@@ -41,7 +41,7 @@ All attendees will need their own desktop or laptop with the following software 
 | 12:30 - 13:30|Lunch Break|
 |13:30 - 14:30| Introduction to Python - Part 2.|
 |14:30 - 14:45| Break|
-|14:45 - 17:00| A Brief Introduction to MPI.|
+|14:45 - 17:00| Connecting to a system, Linux Introduction, Scripting|
 
 Please find example codes run on GitHub: https://github.com/CaSToRC-CyI/NCC-Beginner-Training-2021
 
@@ -49,9 +49,9 @@ Please find example codes run on GitHub: https://github.com/CaSToRC-CyI/NCC-Begi
 
 | Time| Subject  |
 | :----: | :---      |
-| 10:00 - 12:00| Connecting to a system, Linux Introduction, Scripting.|
-| 12:00 - 13:30| Lunch Break|
-|13:30 - 15:00| Introduction to Slurm, Submitting jobs on systems, Queues, Modules.|
+| 10:00 - 12:00| Introduction to Slurm, Submitting jobs on systems, Queues, Modules |
+| 12:00 - 13:30| Lunch Break                |
+| 13:30 - 15:30| A Brief Introduction to MPI|
 
 Between 16:00 - 17:00, there will be a Joint EuroCC/SimEA seminar with speaker Professor Bert de Groot of the Max Planck Institute for Biophysical Chemistry, which participants can follow if they wish.
 
