@@ -53,7 +53,6 @@ Please find example codes run on GitHub: https://github.com/CaSToRC-CyI/NCC-Begi
 | 12:00 - 13:30| Lunch Break                |
 | 13:30 - 15:30| A Brief Introduction to MPI|
 
-Between 16:00 - 17:00, there will be a Joint EuroCC/SimEA seminar with speaker Professor Bert de Groot of the Max Planck Institute for Biophysical Chemistry, which participants can follow if they wish.
 
 #### Day 3 (Wednesday 16th November 2022)
 
