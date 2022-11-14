@@ -4,7 +4,8 @@
 #SBATCH --ntasks=8
 #SBATCH --output=ex05-output.txt
 #SBATCH --time=00:01:00
-#SBATCH --reservation=edu12
+#SBATCH --reservation=NCC
+#SBATCH -A edu17
 
 module load gompi
 mpirun ./ex05
