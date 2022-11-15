@@ -3,19 +3,7 @@
 ## Slot 1 (09:30 - 11:00): Introduction to Data Science - Session 1: Structured Data:open_file_folder:
 **Speaker**: Nikos Bakas, PhD
 **Description**:
-Nikolaos, 4:57 PM
 In this session, we will present Machine Learning algorithms for structured datasets in Julia Language. We start with examples from Linear Algebra, BLAS, and Statistics, followed by Machine Learning Algorithms. Furthermore, the CUDA and Multithreading interface will be presented in a hands-on session, where the participants may try the discussed concepts interactively.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
-
-## Slot 2 (11:15 - 12:45): Introduction to Data Science - Session 2: Time-series :chart_with_downwards_trend:
-# Day 3: Introduction to Data Science
-
-# Day 3: Introduction to Data Science
-
-## Slot 1 (09:30 - 11:00): Introduction to Data Science - Session 1: Structured Data:open_file_folder:
-**Speaker**: Nikos Bakas, PhD
-**Description**:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
 
@@ -30,4 +18,5 @@ This online training course will provide you with essential knowledge to allow p
 **Speaker**:  Nikolas Theodosiou 
 **Description**:
 In this session, trainees will be introduced to basic text processing methods in Python, in order to classify IMDB movie reviews using Machine Learning (ML) and Natural Language Processing (NLP). For the purposes of this tutorial, we will mainly rely on Pandas, Sklearn and NLTK. Therefore, attendees should be familiar with the basics of the Python programming language.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MrbQYXp-hmVnHN4uvs-2oLgHfxsi_7nR?usp=sharing)
