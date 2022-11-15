@@ -58,8 +58,8 @@ Please find example codes run on GitHub: https://github.com/CaSToRC-CyI/NCC-Begi
 
 | Time| Subject  |
 | :----: | :---      |
-|10:00 - 11:30| Introduction to Data Science - Session 1: Structured Data.|
-|11:30 - 11:45| Break|
-|11:45 - 12:30| Introduction to Data Science - Session 2: Vision.|
-|12:30 - 13:30| Lunch Break|
-|13:30 - 15:00| Introduction to Data Science - Session 3: Text.|
+|09:30 - 11:00| Introduction to Data Science - Session 1: Structured Data.|
+|11:00 - 11:15| Break|
+|11:15 - 12:45| Introduction to Data Science - Session 2: Time-series.|
+|12:45 - 13:45| Lunch Break|
+|13:45 - 15:15| Introduction to Data Science - Session 3: Text.|
