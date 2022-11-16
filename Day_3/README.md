@@ -8,7 +8,7 @@
 
 In this session, we will present Machine Learning algorithms for structured datasets in Julia Language. We start with examples from Linear Algebra, BLAS, and Statistics, followed by Machine Learning Algorithms. Furthermore, the CUDA and Multithreading interface will be presented in a hands-on session, where the participants may try the discussed concepts interactively.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_0Q9yDnsjR-ybYmhde1WUk6PmV7_PfHl?usp=sharing)
 
 ## Slot 2 (11:15 - 12:45): Introduction to Data Science - Session 2: Time-series :chart_with_downwards_trend:
 
